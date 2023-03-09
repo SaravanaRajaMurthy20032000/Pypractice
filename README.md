@@ -1,3 +1,2 @@
 # Pypractice  
-
-printing the user given name
+Commitiing the pracice folders and files of Python in GITHUB.
